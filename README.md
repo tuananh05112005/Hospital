@@ -130,20 +130,6 @@
 
 ---
 
-## Đóng góp
 
-- Fork repo
-- Tạo nhánh tính năng: `git checkout -b feature/<tên>`
-- Viết test cho endpoint mới
-- Đảm bảo code tuân thủ ESLint & Prettier
-- Gửi Pull Request kèm mô tả và (nếu muốn) video / GIF demo
-
----
-
-## Giấy phép
-
-Dự án được cấp phép **MIT License** – xem file `LICENSE` để biết chi tiết.
-
----
 
 *README được tạo tự động bởi Antigravity – trợ lý lập trình AI.*
